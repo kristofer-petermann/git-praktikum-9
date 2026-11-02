@@ -1,4 +1,4 @@
-# Git töötuba
+# Git ja koostöö
 
 Kuupäev: 10.11.2026
 
