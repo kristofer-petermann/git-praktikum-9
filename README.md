@@ -1,6 +1,6 @@
 # Git ja koostöö
 
-Kuupäev: 10.11.2026
+Kuupäev: 17.11.2026
 
 Ava index.html oma brauseris. Veebimajutust ei ole vaja.
 Registreerimislink on väljamõeldud näidis, mitte päris teenus.
